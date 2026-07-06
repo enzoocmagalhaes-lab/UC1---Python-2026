@@ -13,3 +13,4 @@ match menu:
         total = numero1 / numero2
 
 print(total)
+print('teste commit')
