@@ -3,5 +3,7 @@ v2 = int(input('Digite o seu segundo valor: '))
 
 if v1 > v2:
     print('O seu primeiro valor é maior')
-else:
+elif v2 > v1:
     print('O seu segundo valor é maior')
+else:
+    print('Os dois valores são iguais')
