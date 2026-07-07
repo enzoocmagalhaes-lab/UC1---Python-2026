@@ -9,3 +9,4 @@ else:
     print('Os dois valores são iguais')
 print('Teste de PULL')
 print('Teste de push vrscode')
+print('Teste de push vrscode 2')
