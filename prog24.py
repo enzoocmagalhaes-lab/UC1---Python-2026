@@ -14,3 +14,4 @@ match menu:
 
 print(total)
 print('teste commit')
+print('Teste de push de vrscode')
